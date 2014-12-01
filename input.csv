@@ -1,0 +1,72 @@
+1 10 puri
+1 4  dosa omelette puri rissotto wine
+1 4  wine
+1 7  rissotto  omelette  wine  burger  puri  dosa
+2 9  wine
+2 8  dosa  burger  wine  omelette  rissotto  puri
+2 6  burger
+2 7  dosa  rissotto  burger
+2 3  puri
+2 2  rissotto  burger   
+2 3  rissotto
+2 10 omelette  burger  puri  rissotto  wine
+2 2  dosa
+2 5  omelette  dosa  rissotto
+3 4  rissotto
+3 3  wine  dosa  omelette  burger
+3 5  dosa
+3 3  rissotto  dosa  puri  omelette  wine  burger
+3 10 wine
+3 10 burger  rissotto  wine  puri
+3 9  omelette  puri  wine
+3 10 omelette
+3 5  puri  omelette  wine  dosa  burger
+3 6  puri
+3 3  burger  rissotto  dosa
+4 7  dosa
+4 6  puri  burger  dosa  rissotto  wine
+4 8  burger
+4 9  puri  rissotto
+4 5  puri
+4 9  rissotto  burger  omelette  dosa  puri
+5 2  dosa
+5 5  dosa  omelette  burger
+5 7  wine
+5 2  rissotto  dosa
+5 4  rissotto  omelette
+6 10 dosa
+6 2  rissotto  omelette  puri
+6 10 rissotto
+6 5  omelette  dosa  puri  rissotto
+6 3  dosa  rissotto  wine  omelette  puri
+6 8  burger
+6 8  burger  puri  wine  rissotto  dosa  omelette
+7 2  puri
+7 2  dosa  rissotto  wine  omelette  burger
+7 2  omelette
+7 7  rissotto  burger
+7 5  burger
+7 9  dosa  puri  burger  omelette
+7 5  burger  dosa  rissotto  omelette  puri
+7 3  wine  dosa  rissotto  omelette  puri
+7 4  rissotto  omelette  dosa  burger
+7 9  omelette  puri  wine  dosa  burger
+7 10 rissotto  dosa  burger
+8 8  wine
+8 8  rissotto  wine  puri
+8 10 rissotto
+8 10 wine  dosa  rissotto  puri  burger  omelette
+8 7  omelette
+8 6  dosa  omelette  rissotto  wine  puri
+8 3  burger
+8 10 puri  omelette  wine  burger
+8 9  rissotto  dosa  puri  wine
+9 2  omelette
+9 3  dosa  rissotto  puri  burger
+9 9  wine  omelette  rissotto  dosa
+9 5  burger
+9 6  dosa  puri  omelette  burger
+10 10 rissotto
+10  4 dosa  burger  rissotto
+10  4 wine
+10  2 rissotto  burger  puri

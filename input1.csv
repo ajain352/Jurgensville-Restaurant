@@ -1,0 +1,103 @@
+1 4  egg        
+1 5  wine  burger  egg   pizza  
+1 6  pizza        
+1 2  wine  egg      
+1 3  wada       
+1 3  wada  burger  wine  egg   pizza
+1 7  wine       
+1 9  wine  pizza   wada   
+1 8  wine  wada     
+1 10   pizza   wine  burger   
+1 2  wada  burger     
+1 5  pizza   egg   burger   
+1 3  pizza   wada  egg    
+1 7  pizza   burger     
+2 9  wine       
+2 4  pizza   egg   wada   
+2 3  pizza        
+2 8  wine  burger  wada  pizza  
+2 7  wine  wada  egg   burger 
+2 9  burger       
+2 4  egg   wine  burger  pizza   wada
+2 9  burger  pizza   wada  egg  
+2 3  wine  pizza   burger  egg  
+3 4  pizza        
+3 3  burger  wine  pizza   egg  
+3 3  wada       
+3 5  wine  wada  egg    
+3 3  burger       
+3 10   wada  burger     
+3 3  wine       
+3 3  egg   burger     
+3 7  wada  burger  egg    
+3 6  egg   pizza      
+3 10   pizza   burger  egg    
+4 8  wada       
+4 4  wine  burger     
+4 7  pizza        
+4 5  burger  egg   pizza   wada  wine
+4 9  wine       
+4 7  burger  wada     
+4 9  burger       
+4 4  wada  wine     
+4 10   egg        
+4 2  pizza   wine  wada   
+5 3  egg        
+5 4  wada  wine  egg   burger  pizza
+5 8  wine       
+5 3  egg   wine  wada  burger 
+5 10   wada       
+5 7  wine  egg   wada   
+5 10   egg   wada  pizza   wine 
+5 4  wine  burger     
+5 6  pizza        
+5 7  egg   wada  burger  pizza  
+5 7  wine  egg      
+5 2  pizza   burger     
+5 7  burger       
+6 3  burger       
+6 9  burger  egg   pizza   wine 
+6 10   pizza        
+6 5  pizza   egg   wada   
+6 5  wada       
+6 6  pizza   burger  egg   wada  wine
+6 8  pizza   wada  burger   
+6 8  egg   wine  wada   
+6 4  egg
+6 5  egg   burger  wine  wada 
+6 3  wine       
+6 6  wada  burger  egg    
+6 6  wada  wine  pizza    
+7 9  egg        
+7 6  wada  wine  pizza   egg  
+7 8  wada       
+7 7  egg   wine  pizza   burger 
+7 6  burger       
+7 7  burger  egg   wine  wada 
+7 8  wine       
+7 9  egg   pizza   wine   
+7 6  egg   wada  pizza    
+7 7  wine  burger  egg   pizza   wada
+7 10   pizza        
+8 2  pizza        
+8 9  wine  pizza      
+8 2  egg        
+8 8  wine  burger  egg   wada 
+8 5  egg   wada  pizza   burger 
+9 3  wine       
+9 2  pizza   wada  egg    
+9 2  wada  burger  wine  egg  
+9 4  pizza        
+9 2  wine  wada  burger  pizza   egg
+9 5  burger  pizza   wine  wada 
+9 2  egg        
+9 6  wada       
+10  5  burger       
+10  9  burger  wine  egg   wada 
+10  5  egg        
+10  7  pizza   egg   wada  burger  wine
+10  3  burger  wine  wada   
+10  8  wada       
+10  6  pizza   burger     
+10  6  wine       
+10  10   egg   pizza   wada   
